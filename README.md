@@ -1,5 +1,4 @@
-# Stroke Prediction ML Model
-
+# 🧠📈 Stroke Prediction ML Model 📊💉
 
 Do you know that stroke is one of the leading causes of death worldwide? 😱 This project aims to build a machine learning model 🤖 to predict the likelihood of a person having a stroke based on certain risk factors 📊👨‍⚕️. 
 
